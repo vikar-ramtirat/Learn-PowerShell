@@ -1,6 +1,5 @@
 Finding and Using Commands
 Objectives:
-At the end of this episode, I will be able to:
 
 Use PowerShell cmdlets.
 Find commands using the Get-Command cmdlet.
