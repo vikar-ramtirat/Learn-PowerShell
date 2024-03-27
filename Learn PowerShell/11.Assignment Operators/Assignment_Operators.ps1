@@ -1,4 +1,4 @@
-#1. In the script file, number_one.ps1, use the multiplication compound assignment operator to multiply the variable $number by 3.
+#1. In the script file, Assignment_Operators.ps1, use the multiplication compound assignment operator to multiply the variable $number by 3.
 #2. On the next line, use the addition compound assignment operator to add 6 to the variable $number
 #3. On the next line, use the division compound assignment operator to divide the variable number by 3
 #4. On the next line, use the subtraction compound assignment operator to subtract the variable $original_number from the variable $number
